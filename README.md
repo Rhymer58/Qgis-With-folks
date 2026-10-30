@@ -46,3 +46,9 @@ County boundaries follow GADM / Kenya's admin claims. Disputed border areas (lik
 
 ## Tools
 QGIS 3.34 LTR, GADM 4.1 data, KNBS 2019 census, OpenStreetMap
+## Day 8: Terrain
+
+- Built a DEM/hillshade terrain map of Cherangani Hills around Kapcherop using the Copernicus GLO-30 30m DEM (ESA; free download, no login).
+- Styled elevation with singleband pseudocolor using the cpt-city DEM_print ramp, with a separate hillshade layer set to Multiply blend mode for shadows.
+- Added county boundaries from GADM 4.1 as no-fill white outlines, plus a custom compact folk-made SVG north arrow from the `north_arrows` folder.
+- Layout items: title, elevation legend, scale bar, source note “Source: Copernicus DEM GLO-30 (ESA), 30m. County boundaries: GADM 4.1”, and RHYMER@2026 watermark.
