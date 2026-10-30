@@ -72,4 +72,4 @@ QGIS 3.34 LTR, GADM 4.1 data, KNBS 2019 census, OpenStreetMap
 - Clipped NDVI to county boundaries (GADM 4.1) using Clip by Mask. Added county labels and a Kenya inset overview.
 - Used discrete 5-class symbology: bare, sparse, moderate, healthy, and dense.
 - Source note: USGS Landsat 8 C2 L2.
-- The map PDF, `NDVI Map for select region in kenya.pdf`, will be uploaded by the user.
+- The map PDF, `NDVI Map for select region in kenya.pdf`, has been uploaded.
